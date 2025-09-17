@@ -65,7 +65,10 @@ It demonstrates how to analyze, process, and visualize sales data for retail sto
 - **Seaborn**  
 
 ---
+## 🎥 Demo Video  
 
-"C:\Users\omkar joshi\Videos\Captures\code.ipynb - Stats Project - Visual Studio Code 2025-09-17 14-41-20.mp4"
+[Click here to watch the demo](C:\Users\omkar joshi\Videos\Captures\code.ipynb - Stats Project - Visual Studio Code 2025-09-17 14-41-20.mp4)
+
+
 
 
