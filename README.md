@@ -66,5 +66,6 @@ It demonstrates how to analyze, process, and visualize sales data for retail sto
 
 ---
 
-## 📂 Project Structure  
+"C:\Users\omkar joshi\Videos\Captures\code.ipynb - Stats Project - Visual Studio Code 2025-09-17 14-41-20.mp4"
+
 
