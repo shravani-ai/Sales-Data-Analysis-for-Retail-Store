@@ -65,9 +65,7 @@ It demonstrates how to analyze, process, and visualize sales data for retail sto
 - **Seaborn**  
 
 ---
-## 🎥 Project Video  
-
-[Click here to watch the demo](Stats Pro.mp4)
+## 
 
 
 
